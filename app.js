@@ -23,8 +23,7 @@ app.engine('handlebars', exphbs.engine({defaultLayout: 'main.hbs'}))
 app.set('view engine', 'handlebars')
 
 //static folder
-//app.use(express.static(path.join(__dirname, 'public')))
-app.use(express.static(__dirname + '../../' + '/public'))
+app.use(express.static(path.join(__dirname, 'public')))
 
 // db connection
 db
