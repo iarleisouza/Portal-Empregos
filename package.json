@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "engines": {
-    "node": "20.x"
+    "node": "20.x",
+    "npm": "10.5"
   },
   "scripts": {
     "start": "node app.js",
