@@ -1,5 +1,5 @@
 {
-  "name": "rifa-atual",
+  "name": "postal-empregos",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Iarlei Souza",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
